@@ -1,0 +1,35 @@
+{
+  "network": "testnet",
+  "progress_bar": true,
+  "debugs_dir": "logs",
+  "debugs": [
+    {
+      "debug_name": "CBlock grep 2000 matches.txt",
+      "save_name": "CBlock grep 2000 matches OB"
+    },
+    {
+      "debug_name": "debug.log qMUR73.txt",
+      "start_index": 0,
+      "stop_index": 100,
+      "save_name": "debug.log qMUR73 OB"
+    },
+    {
+      "debug_name": "debug.log qPoolFF.txt",
+      "start_index": 0,
+      "stop_index": 100,
+      "save_name": "debug.log qPoolFF OB"
+    },
+    {
+      "debug_name": "debug.log qPoolFF Coinstake.txt",
+      "start_index": 0,
+      "stop_index": 100,
+      "save_name": "debug.log qPoolFF Coinstake OB"
+    }
+  ],
+  "headers": {
+    "user-agent": "QtumOB User-Agent",
+    "content-type": "application/json; charset=utf-8",
+    "accept": "application/json"
+  },
+  "timeout": 60
+}
