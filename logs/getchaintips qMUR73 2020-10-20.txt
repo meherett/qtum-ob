@@ -1,0 +1,70 @@
+qMUR73 getchaintips
+
+[
+  {
+    "height": 701298,
+    "hash": "8128f9ea528e55715913c8d906a9783751596d37485f66171ea9d167139861be",
+    "branchlen": 0,
+    "status": "active"
+  },
+  {
+    "height": 701177,
+    "hash": "ade25d90d02fd84dfa99fa27bc18f0b4c54b69260ca8577808bf301de108ef52",
+    "branchlen": 1,
+    "status": "valid-headers"
+  },
+  {
+    "height": 701173,
+    "hash": "2801e43c349fc2d41aab729caed920dd8834616baa21a68ea30c1ab17ad4ee9b",
+    "branchlen": 1,
+    "status": "headers-only"
+  },
+  {
+    "height": 701165,
+    "hash": "aac1e1ccffef85326e1c0c4c7619ae39c6338f943641971132d8cdcd8fe93e70",
+    "branchlen": 1,
+    "status": "valid-headers"
+  },
+  {
+    "height": 701100,
+    "hash": "f105ede5befda69227462da404be5ad081074d23da8c38a30e8b2dfbbff77b0a",
+    "branchlen": 1,
+    "status": "headers-only"
+  },
+  {
+    "height": 700992,
+    "hash": "ea45caca55769e6ee128216d3370b6ae0b6b6ec49b919728b2bfca1ddf059680",
+    "branchlen": 2,
+    "status": "valid-fork"
+  },
+  {
+    "height": 700954,
+    "hash": "9080a79545a780cf9d62a33cfc5ce929f5860c272c5c775d56c489c7762938c7",
+    "branchlen": 1,
+    "status": "valid-headers"
+  },
+  {
+    "height": 700923,
+    "hash": "4e5bcd37afc3bbf6cb1722da18ef184027f95fab2639efc0e8a164e2b53b7350",
+    "branchlen": 1,
+    "status": "headers-only"
+  },
+  {
+    "height": 700860,
+    "hash": "7c6338403741e39408e749c2177b07a492cd1f1adee40e0def69dfd4249db7c3",
+    "branchlen": 1,
+    "status": "valid-fork"
+  },
+  {
+    "height": 700852,
+    "hash": "581acfdbd18bf1ab4f9798ee3beeee75a99ea4ad9b75cb2e6718675e1c1fefce",
+    "branchlen": 1,
+    "status": "valid-headers"
+  },
+  {
+    "height": 700847,
+    "hash": "cbce9c45f146e2fc20a357f94322b9b7c1e6962ca4750b3c8772576fe3e9ac4e",
+    "branchlen": 1,
+    "status": "valid-headers"
+  }
+]

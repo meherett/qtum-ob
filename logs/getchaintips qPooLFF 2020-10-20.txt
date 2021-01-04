@@ -1,0 +1,75 @@
+2020-10-20T11:07:17Z ThreadStakeMiner(): Valid future PoS block was orphaned before becoming valid
+
+ {
+    "height": 701296,
+    "hash": "1b886221f51f8e7eb9161518e7918bbe4d411065c2d45fc41c4a6cf7084ba389",
+    "branchlen": 0,
+    "status": "active"
+  },
+  {
+    "height": 701172,
+    "hash": "da3fb900b0671aeaa5f5e668b96fe03ecdf85b57d972eb1c8ea9483ac8ac7e79",
+    "branchlen": 1,
+    "status": "valid-headers"
+  },
+  {
+    "height": 701169,
+    "hash": "c0331dc6741c13e66fd703a1205b715c9014496c42801c1c014732d1a3cf7c8e",
+    "branchlen": 1,
+    "status": "valid-headers"
+  },
+  {
+    "height": 701160,
+    "hash": "2ff1e54880fd9a8066341fbd6a8e536137257ff6bb263f4528e5b9e33a32bd39",
+    "branchlen": 1,
+    "status": "valid-headers"
+  },
+  {
+    "height": 701123,
+    "hash": "56a8d1396e793fafe3c5388e078f90e4122ab1111fd56748c739e10151c410ae",
+    "branchlen": 1,
+    "status": "valid-headers"
+  },
+  {
+    "height": 701120,
+    "hash": "48be98b585d8f70595c2ee99bac231f6da7ccc4e008ce7ed509eed0912e546f9",
+    "branchlen": 1,
+    "status": "headers-only"
+  },
+  {
+    "height": 701082,
+    "hash": "fb188b233c124f26d64d8439c6874e5a3c761fc7e0ee8c5dba0418a8ee0ca9f8",
+    "branchlen": 1,
+    "status": "headers-only"
+  },
+  {
+    "height": 701050,
+    "hash": "028ea12b34c4c7efe5a5f55b84d4aa3f39a82c843f54e327d5bb0e906948606b",
+    "branchlen": 2,
+    "status": "headers-only"
+  },
+  {
+    "height": 700992,
+    "hash": "ea45caca55769e6ee128216d3370b6ae0b6b6ec49b919728b2bfca1ddf059680",
+    "branchlen": 2,
+    "status": "valid-fork"
+  },
+  {
+    "height": 700860,
+    "hash": "7c6338403741e39408e749c2177b07a492cd1f1adee40e0def69dfd4249db7c3",
+    "branchlen": 1,
+    "status": "valid-fork"
+  },
+  {
+    "height": 700847,
+    "hash": "cbce9c45f146e2fc20a357f94322b9b7c1e6962ca4750b3c8772576fe3e9ac4e",
+    "branchlen": 1,
+    "status": "headers-only"
+  },
+  {
+    "height": 700837,
+    "hash": "f87d4382abc1e68ac28f4c7043726226c15e7a9d21aa8c4dc5db6af9ae71effc",
+    "branchlen": 1,
+    "status": "valid-headers"
+  }
+
