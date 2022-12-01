@@ -1,11 +1,11 @@
-# Qtum Orphan Blocks - QtumOB
+# Qtum Orphan Blocks (Qtum-OB)
 
 Qtum blockchain orphan blocks finder for all Qtum core debug files.
 
 ### Installation
 
 ```shell
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ### Configuration
@@ -28,5 +28,5 @@ $ pip install -r requirements.txt
 ### Run
 
 ```shell
-$ python main.py
+python main.py
 ```
